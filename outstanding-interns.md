@@ -33,10 +33,10 @@ Senior interns 的设立目标，是对PLCT实验室目前「外部可见交付�
 | [zxs-un](https://github.com/zxs-un) | oerv小队 |  |
 | （我就不贴了，菜得一批） | oerv小队 |  |
 | 乌鑫龙 | LLVM小队 |  |
-| dingiso | 模拟器小队 |  |
-| [XieJiSS](https://github.com/XieJiSS) | Arch小队 | [Blog](https://blog.jiejiss.com) |
-| [Xeonacid](https://github.com/Xeonacid) | Arch小队 |  |
-| [rvalue](https://github.com/r-value) | Arch小队 |  |
+| [dingiso](https://github.com/dingiso/) | 模拟器小队 | 正在努力成为下面的High-lv Interns [Blogs](http://dingiso.github.io/) |
+| [XieJiSS](https://github.com/XieJiSS) | arch小队 | [Blog](https://blog.jiejiss.com) |
+| xeonacid | arch小队 |  |
+| [rvalue](https://github.com/r-value) | arch小队 |  |
 | [Zenithal](https://github.com/ZenithalHourlyRate) | Arch小队、CAAT小队 |  |
 
 # LV4+ Interns
